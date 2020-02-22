@@ -5,17 +5,11 @@
 You are your sole raison dêtre of your existence, which is too our raison dêtre to customize an Internet architecture ----Web 3.0---- for your peculiarity.
 
 1. This model is required a particular account which is generated and controlled by our hands. With it, you are entitled with access into all application scenarios and none spams can fly into your inbox without your agreement;
-
 2. Its data is encrypted on our devices instead of the version sent to us after the treatment of a service;
-
 3. Encryption is guaranteed in the process of information transmission, and the key to it is solely to you;
-
 4. The code should be opensource, meanwhile the safety and synchronicity of the running environment are also secured.
-
 5. It provides you with active right to choose, thus more flexible service providers choose for similar services are waiting for you;
-
 6. The network is also required to provide you with a set of secure data storage methods, through which the data you generate online is best controlled by yourselves;
-
 7. Finally, the ownership of this network belongs to you. Based on it, you deserve a corresponding return if your online behavior prospers the entire network.
 
 Our project was founded based on these targets. And we have found technical tools from existed computer technologies that can achieve the above. Asymmetric encryption is a good set of security mechanisms that can be used to generate accounts. Nowadays, there are many asymmetric encryption algorithms, such as RSA, Elgamal, Knapsack Algorithm, Rabin, DH, ECC, etc. Considering both security and cost, as well as compatibility with accounts of existing blockchain projects, we chose ECC as the Algorithm to generate accounts. Since we cannot trust the third party to encrypt data for us, all encryption must be done by ourselves---- our devices. Besides, ECDH can meet the third point----the security in transmission. As for the fourth point, the issues about open source applications can be solved with existing code open source platforms (such as Github), and the operating environment requires virtual machines and smart contracts. Ideally, the front-end of the application should be displayed by the local device and directly interacted with the blockchain, rather than the server; at the same time, the back-end execution environment should be deployed in an overall maintained and unified virtual machine. After apps open source, service providers cannot cheat users through code cheating. The fifth point can be achieved only with our establishment of an open peer-to-peer network. The sixth point is a bit complicated that it should resort to smart contracts, a trusted computing, and an encryption of the stored data based on the distributed network. The seventh point is that the ownership and benefits ask for insurance through the tunnel of digital assets whose aim initially as an incentive among network nodes run unstable for a long time due to lack of it, which can be reflected in Bitcoin.
