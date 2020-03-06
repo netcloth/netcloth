@@ -1,6 +1,6 @@
 # The White Paper of the NETCLOTH - Your Escort
 
-**Make You and Your Network Unique**
+**Make You and Your Personal Network Unique**
 
 You are your sole raison dêtre of your existence, which is too our raison dêtre to customize an Internet architecture ----Web 3.0---- for your peculiarity.
 
