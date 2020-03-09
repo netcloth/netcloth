@@ -1,4 +1,7 @@
-# The White Paper of the NETCLOTH - Your Escort
+# The White Paper of the NETCLOTH Personal Network (Ver 1.0)
+
+## 0 Summary
+The NetCloth personal network project is dedicated to enabling everyone to build their own personal network. From establishing connection to forming complex network production relationships, NetCloth will provide everyone with open infrastructures and an open blockchain ledger. From the initial establishment of personal identity and information interaction, to data storage, processing and exchange, and finally to network revenue sharing, we hope that all of these are under everyone's control. The entire project will be divided into divided into four stages: Escort, Containers, Bazaars, and Artificial Intelligence Factory. During the project development process, we will release various infrastructures according to the schedule to facilitate network users to participate in network ecological construction.
 
 **Make You and Your Personal Network Unique**
 
@@ -11,6 +14,8 @@ You are your sole raison dêtre of your existence, which is too our raison dêtr
 5. It provides you with active right to choose, thus more flexible service providers choose for similar services are waiting for you;
 6. The network is also required to provide you with a set of secure data storage methods, through which the data you generate online is best controlled by yourselves;
 7. Finally, the ownership of this network belongs to you. Based on it, you deserve a corresponding return if your online behavior prospers the entire network.
+
+NetCloth personal network is a network that can deposit users' value, a network that cannot be dominated by software operators, and an open network where the users own network ownership.
 
 Our project was founded based on these targets. And we have found technical tools from existed computer technologies that can achieve the above. Asymmetric encryption is a good set of security mechanisms that can be used to generate accounts. Nowadays, there are many asymmetric encryption algorithms, such as RSA, Elgamal, Knapsack Algorithm, Rabin, DH, ECC, etc. Considering both security and cost, as well as compatibility with accounts of existing blockchain projects, we chose ECC as the Algorithm to generate accounts. Since we cannot trust the third party to encrypt data for us, all encryption must be done by ourselves---- our devices. Besides, ECDH can meet the third point----the security in transmission. As for the fourth point, the issues about open source applications can be solved with existing code open source platforms (such as Github), and the operating environment requires virtual machines and smart contracts. Ideally, the front-end of the application should be displayed by the local device and directly interacted with the blockchain, rather than the server; at the same time, the back-end execution environment should be deployed in an overall maintained and unified virtual machine. After apps open source, service providers cannot cheat users through code cheating. The fifth point can be achieved only with our establishment of an open peer-to-peer network. The sixth point is a bit complicated that it should resort to smart contracts, a trusted computing, and an encryption of the stored data based on the distributed network. The seventh point is that the ownership and benefits ask for insurance through the tunnel of digital assets whose aim initially as an incentive among network nodes run unstable for a long time due to lack of it, which can be reflected in Bitcoin.
 
