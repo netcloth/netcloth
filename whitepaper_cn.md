@@ -30,7 +30,7 @@ NetCloth个人网络，是一个能沉淀用户价值的网络，是一个无法
 在互联网中，我们通过第三方的协助来管理和使用网络身份。这种方式给使用者带来了方便的同时，也导致了信息泄露和流量竞争。现在，我们引入一种新的身份体系，定义非对称加密ECC的公钥为账户地址，由用户终端离线产生的账户私钥生成。
 
 <p align="center">
-<img src="https://github.com/netcloth/netcloth/blob/master/images/1.png?raw=true" alt="Sample" width = 45% height = 45%>
+<img src="https://github.com/netcloth/netcloth/blob/master/images/1.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 由于离线生成和本地参数选择，该账户私钥不仅独一无二（碰撞概率极低），也不被除了使用者以外的第二人知晓。
@@ -50,7 +50,7 @@ NetCloth个人网络，是一个能沉淀用户价值的网络，是一个无法
   6. 用户B将密文 T<sup>'</sup>通过AES解密获得信息 T。
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/2.png?raw=true" alt="Sample" width = 45% height = 45%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/2.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 1.4 信息转发
@@ -100,7 +100,7 @@ NetCloth网络的治理主要用于避免网络作弊和生态自治。对于权
 ### 3.4 生态架构
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/3.png?raw=true" alt="Sample" width = 40% height = 40%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/3.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 上图为NetCloth网络的架构图，其中IPAL是主链上的一种特殊寻址申明，可以视为寻址协议。节点层与账本层之间通过NCH作为使用媒介，完成海星节点的公开信息披露和不可篡改；应用层与用户之间不限制使用媒介，方便不同国家和地区的海星节点。NetCloth是无门槛的公开区块链网络，使用者能够以最低的成本成为海星节点，服务不同国家和地区的其他使用者。根据NetCloth网络的开发路线图，将支持不同功能的去中心化应用场景。
@@ -118,7 +118,7 @@ NetCloth网络的每一个版本都将只侧重简介一到两个关键技术，
 IP Address List 是NetCloth网络特有的寻址模块，IPAL记录的是海星节点的信息，包括接入点IP、节点名、联系方式等信息。用户可以通过链上查找IPAL列表，筛选自己喜欢的海星节点并使用服务。
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/4.png?raw=true" alt="Sample" width = 40% height = 40%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/4.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 4.3 C-IPAL申明
@@ -126,7 +126,7 @@ IP Address List 是NetCloth网络特有的寻址模块，IPAL记录的是海星�
 C-IPAL（Client IP Address List）协议是IPAL的一种扩展，面向客户端用户。用户使用各类服务均需要通过C-IPAL申明地址。C-IPAL具体的实现方式已在1.2章中阐述。
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/5.png?raw=true" alt="Sample" width = 35% height = 35%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/5.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 4.4 侧链
@@ -138,7 +138,7 @@ NetCloth的侧链和主链的完全去中心化不同。侧链允许部分去中
 NetCloth网络将通过主网升级的方式，陆续实现去中心化的各个功能，升级路径分为4个阶段，分别是镖局、集装箱、集市、工厂。
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/6.png?raw=true" alt="Sample" width = 45% height = 45%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/6.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 5.1 信息交互-镖局

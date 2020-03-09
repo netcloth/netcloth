@@ -28,7 +28,7 @@ The first function of the Internet is communication. We named the decentralized 
 On the Internet, we manage and use online identities with the aid of the third party. While through this method, information leakage and traffic competition would occur along with the convenience to users. Now, a new identity system has been introduced, which defines the public key of asymmetric encrypted ECC as the account address that derives from the account secret key generated offline by the users’ devices.
 
 <p align="center">
-<img src="https://github.com/netcloth/netcloth/blob/master/images/en/1.png?raw=true" alt="Sample" width = 45% height = 45%>
+<img src="https://github.com/netcloth/netcloth/blob/master/images/en/1.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 Due to offline generation and local parameters, the account secret key is not only unique (the collision probability is extremely low), but also not known to a second person other than the user.
@@ -49,7 +49,7 @@ We use ECDH for an assurance of an independent encryption of the data exchange b
 6. User B obtain raw message T from the ciphertext T<sup>'</sup> through AES decryption.
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/2.png?raw=true" alt="Sample" width = 45% height = 45%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/2.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 1.4 Data Transmission
@@ -99,7 +99,7 @@ We believe that the basic parameters related to the main network, such as the nu
 ### 3.4 Ecological Architecture
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/3.png?raw=true" alt="Sample" width = 40% height = 40%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/3.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 The above figure is the architecture diagram of the NetCloth network, of which IPAL is a special addressing claim on the main chain, which can be regarded as an addressing protocol. NCH, the token, is between the node layer and the ledger layer to fulfill the disclosure and non-tampering of starfish nodes; while there is no restriction of payment methods between the application layer and users, which can facilitate starfish nodes in different countries and regions. NetCloth being an open blockchain network without any threshold, thus users can become starfish nodes at the lowest cost and any other users in different countries and regions can also enjoy this priority. According to the development roadmap of the NetCloth network, all decentralized application scenarios with different functions can be found.
@@ -117,7 +117,7 @@ Bearing an aim of reducing the cost for developers to learn and write smart cont
 IP Address List is a unique addressing module of NetCloth network. IPAL records such information of starfish nodes as access point IP, node name, and contact information. By searching IPAL list on the chain, users can filter their favorite starfish nodes and enjoy the service.
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/4.png?raw=true" alt="Sample" width = 40% height = 40%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/4.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 4.3 C-IPAL Statement
@@ -125,7 +125,7 @@ IP Address List is a unique addressing module of NetCloth network. IPAL records 
 The Client IP Address List (C-IPAL) protocol is an extension of IPAL, facing for client users. Submitting an address through C-IPAL is required by users with a need of enjoying various services. The specific procedure of C-IPAL has been explained in Chapter 1.2.
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/5.png?raw=true" alt="Sample" width = 35% height = 35%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/5.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 4.4 Side Chain
@@ -137,7 +137,7 @@ The side chain of the NetCloth totally differs its full decentralization from th
 The NetCloth network will gradually implement decentralized functions through the upgrade of the main network. The upgrade path is divided into four stages, respectively Escort, Container, Bazaar, and Factory.
 
 <p align="center">
-	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/6.png?raw=true" alt="Sample" width = 45% height = 45%>
+	<img src="https://github.com/netcloth/netcloth/blob/master/images/en/6.png?raw=true" alt="Sample" width = 55% height = 55%>
 </p>
 
 ### 5.1 Information Interaction-Escort
